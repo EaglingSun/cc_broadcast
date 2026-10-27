@@ -1,0 +1,7 @@
+{
+  "name": "prompt-cast-recv",
+  "version": "0.1.0",
+  "description": "수강생용 — 강사 PC 가 방송한 프롬프트를 입력창에 초안으로 받는다 (/cast-connect 강사IP:포트)",
+  "author": { "name": "김선숙" },
+  "types": "./types/index.d.ts"
+}

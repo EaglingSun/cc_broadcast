@@ -1,0 +1,12 @@
+{
+  "name": "sure-lab-cast",
+  "owner": { "name": "김선숙" },
+  "description": "실습 프롬프트 방송 — 수강생 PC 에는 받는 쪽(prompt-cast-recv)만 설치한다",
+  "plugins": [
+    {
+      "name": "prompt-cast-recv",
+      "source": "./prompt-cast-recv",
+      "description": "수강생용 — 강사 방송을 입력창에 초안으로 받기 (/cast-connect 강사IP:포트)"
+    }
+  ]
+}
